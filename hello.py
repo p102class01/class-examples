@@ -1,3 +1,11 @@
+'''
+In this examples we used Python 2.x because most
+of the machines in class had that version, but from
+our next class, we will be using 3.x
+
+Esp. you can see our print doesn't have ()
+'''
+
 print "Hello Word!"
 
 #Python is Dynamically
